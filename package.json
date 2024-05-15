@@ -1,0 +1,12 @@
+{
+  "name": "express-rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js "
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
